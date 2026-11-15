@@ -2,6 +2,6 @@
 
 Official Android app downloads for OMOKU STAYS.
 
-Download the latest signed APK from the [Releases](https://github.com/ugorjibelieve-cmd/omoku-stays-android/releases) page.
+**Download the latest version (about 20 MB):** https://omoku-stays-web.onrender.com/omoku-stays.apk
 
 For bookings, visit https://omoku-stays-web.onrender.com.
